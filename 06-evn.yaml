@@ -1,6 +1,6 @@
 kind: Pod
 apiVersion: v1
-metadat:
+metadata:
   name: env-test
 spec:
  containers:
