@@ -1,9 +1,0 @@
-kind: Pod
-apiVersion: v1
-metadata:
-  name: rough
-spec:
-  containers:
-  - name: alma
-    image: "almalinux:9"
-    command: ["sleep", "3000"]
