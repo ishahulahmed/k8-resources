@@ -13,7 +13,7 @@ spec:
     volumeHandle: vol-05bd6e72e1eea5751
 ---
 apiVersion: v1
-kind: PersistenVolumeClaim
+kind: PersistentVolumeClaim
 metadata:
   name: ebs-static
 spec:
