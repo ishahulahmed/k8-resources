@@ -21,7 +21,7 @@ metadata:
 spec:
   accessModes:
     - ReadWriteOnce
-  storageClasName: efs-static
+  storageClasName: ""
   resources:
     requests:
       storage: 2Gi
